@@ -67,18 +67,18 @@ button:hover {
 /* Category selection styling */
 .categories {
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
     margin: 20px 0;
-    width: 100%;
 }
 
 .category-btn {
     margin: 5px;
     width: 45%;
     max-width: 180px;
-    box-sizing: border-box;
     text-align: center;
+    flex-wrap: wrap;
+    display: flex;
+    
 }
 
 .selected {
