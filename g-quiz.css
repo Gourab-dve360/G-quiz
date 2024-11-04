@@ -78,6 +78,7 @@ button:hover {
     width: 45%;
     max-width: 180px;
     box-sizing: border-box;
+    text-align: center;
 }
 
 .selected {
